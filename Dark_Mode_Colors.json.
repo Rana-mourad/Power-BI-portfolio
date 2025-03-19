@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "headers": "#FFFFFF",
+    "subtitles": "#D1D5DB",
+    "bodyText": "#E4E6EB",
+    "highlightedData": {
+      "keyMetrics": "#007BFF",
+      "positiveTrends": "#20C997",
+      "warnings": "#FF7F50",
+      "importantNotes": "#FFC107"
+    },
+    "navigationTabText": {
+      "activeTab": "#FFFFFF",
+      "inactiveTab": "#A0A5B1",
+      "hoverEffect": "#0DCAF0"
+    },
+    "buttonAndIconText": {
+      "standard": "#D1D5DB",
+      "active": "#FFFFFF"
+    }
+  }
+}
